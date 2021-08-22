@@ -1,12 +1,21 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuiwenyao)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on kaoyan
 - 🌱 I’m currently learning datastruct
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## todo list
+
+- [] 学习计算机网络编程
+- [] 学习tinyobj_loader,写出自己的obj_loader
+- [] CDB
+- [] COS
+
+
+
+
+
+
+
+
