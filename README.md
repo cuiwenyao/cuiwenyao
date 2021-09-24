@@ -7,6 +7,7 @@
 
 ## todo list
 
+- [] 学习cpp
 - [] 学习tinyobj_loader,写出自己的obj_loader
 - [] CDB
 - [] COS
