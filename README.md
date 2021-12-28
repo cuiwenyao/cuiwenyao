@@ -2,21 +2,24 @@
 
 # Hi there 👋
 
-- 🔭 I’m currently working on kaoyan
-- 🌱 I’m currently learning datastruct
+- 🔭 I’m currently studying ml.
 
 ## todo list
 
 - [] 学习cpp
 - [x] 学习tinyobj_loader,写出自己的obj_loader
-- [] CDB
+- [] 完善CDB，融合网络技术实现远程控制。
 - [] COS
 - [] 学习计算机网络编程
-
+- [] 完善CJSON
+- [] 重置游戏引擎。
+- [] ml
 
 **学海无涯,无知无畏**
 
 专注底层知识。
+
+
 
 
 
